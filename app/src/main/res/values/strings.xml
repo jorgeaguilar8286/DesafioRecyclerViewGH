@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReciclerView</string>
+    <string name="lista_de_postres">LISTA DE POSTRES</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="nombre_postre">NOMBRE POSTRE</string>
+    <string name="descripcion">DESCRIPCION</string>
+    <string name="detalle_receta">DETALLE RECETA</string>
+</resources>
